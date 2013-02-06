@@ -1,0 +1,11 @@
+# bytecode
+*.py[cod]
+
+# packaging stuff
+__pycache__
+
+# installer logs
+pip-log.txt
+
+# virtualenv
+venv
